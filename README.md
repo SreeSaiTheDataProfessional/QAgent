@@ -124,7 +124,7 @@ This project is open-source and free to use under the MIT License.
 
 ---
 
-## 🙌 Author
+## 🙌 Authors
 
-Built by **Giri Ratna Sai Gummadi**  
-🔗 [LinkedIn](https://www.linkedin.com/in/girigummadi) | 🌐 [GitHub](https://github.com/GiriGummadi)
+Built by Sree Sai Adusumilli, Giri Ratna Sai Gummadi 
+
